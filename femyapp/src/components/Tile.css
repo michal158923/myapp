@@ -1,0 +1,19 @@
+.pym-card {
+  width: 18rem;
+  height: 18rem;
+  float: left;
+  margin-left: 6px;
+  margin-right: 6px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  border: solid;
+}
+.pym-image {
+  width: 17rem;
+  height: 12rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: solid;
+
+}
